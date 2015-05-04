@@ -1,0 +1,14 @@
+{
+  "name": "node-NLP",
+  "version": "0.0.1",
+  "description": "NLP library for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "J. Farid",
+  "license": "GPLv3",
+  "devDependencies": {
+    "jasmine": "~2.2"
+  }
+}
